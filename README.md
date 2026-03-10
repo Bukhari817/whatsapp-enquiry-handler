@@ -1,6 +1,6 @@
 # 🏥 WhatsApp AI Enquiry Handler (Al-Shifa Diagnostic Center)
 
-An intelligent, AI-powered patient support agent designed to automate and streamline WhatsApp enquiries for diagnostic centers. Built with **Google Gemini 1.5 Flash** and **Streamlit**.
+An intelligent, AI-powered patient support agent designed to automate and streamline WhatsApp enquiries for diagnostic centers. Built with **Google Gemini 2.5 Flash** and **Streamlit**.
 
 ---
 
