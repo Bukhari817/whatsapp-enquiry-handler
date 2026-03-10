@@ -17,7 +17,7 @@ An intelligent, AI-powered patient support agent designed to automate and stream
 ## 🛠️ Tech Stack
 
 * **Language:** Python
-* **AI Model:** Google Gemini 1.5 Flash
+* **AI Model:** Google Gemini 2.5 Flash
 * **Frontend:** Streamlit
 
 ---
