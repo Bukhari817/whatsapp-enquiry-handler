@@ -9,7 +9,7 @@ if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY not found! Add it in Replit Secrets.")
 
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("gemini-2.0-flash")
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 LOG_FILE = "enquiry_log.json"
 
